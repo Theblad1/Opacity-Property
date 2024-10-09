@@ -1,0 +1,23 @@
+div {
+    height: 50px;
+    width: 200px;
+    background-color: navy;
+    color: white;
+    margin: 10px;
+}
+
+#second_div {
+    opacity: 0.7;
+}
+
+#third_div {
+    opacity: 0.5;
+}
+
+#fourth_div {
+    opacity: 0.3;
+}
+
+#fifth_div {
+    opacity: 0.1;
+}
